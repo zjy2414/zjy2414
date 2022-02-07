@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm 东南dnf, a sophomore student majoring computer science.
+
 <!--
 **zjy2414/zjy2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
