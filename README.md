@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 东南dnf, a junior student majoring computer science.
+I'm 东南dnf, a student majoring computer science.
 
 <!--
 **zjy2414/zjy2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
